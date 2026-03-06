@@ -49,15 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Radinium&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Radinium&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
-</div>
-
----
-
 ## 🤝 Contact
 
 <p>
